@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>úkol</title>
+</head>
+<body> 
+    
+    <h1 style="color: rgb(5, 12, 107); font-family:'Courier New';">Ondřej Votruba</h1> 
+    <p>Student oboru IT ve Varnsdorfu</p>
+    
+    <h2 style="color: rgba(6, 180, 0, 0.5); font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">Koníčky</h2>
+    <ol> 
+        <li style="font-family: Arial, Helvetica, sans-serif;"> mountain biking </li> 
+        <li style="font-family: Arial, Helvetica, sans-serif;"> motorky </li>
+        <li style="font-family: Arial, Helvetica, sans-serif;"> většina sportů </li>
+    </ol>
+    <img style="width: 800px;" src="https://cdn.discordapp.com/attachments/1246471386126487572/1291104787223412768/image.png?ex=66fee288&is=66fd9108&hm=b861024681afa831d72d2087827ae0084dbdc70f924fcbeb87c5aa7850aea85c&" > 
+     
+</body>
+</html>
