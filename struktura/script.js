@@ -1,4 +1,3 @@
-// Filtrování tabulky
 document.getElementById('filterTable').addEventListener('input', function () {
     const filter = this.value.toLowerCase();
     const rows = document.querySelectorAll('#tableBody tr');
@@ -8,7 +7,6 @@ document.getElementById('filterTable').addEventListener('input', function () {
     });
   });
   
-  // Filtrování výběrového menu
   const originalOptions = Array.from(document.querySelectorAll('#citySelect option'));
   
   document.getElementById('filterSelect').addEventListener('input', function () {
@@ -22,7 +20,6 @@ document.getElementById('filterTable').addEventListener('input', function () {
     });
   });
   
-  // Zpracování formuláře
   document.getElementById('cityForm').addEventListener('submit', function (e) {
     e.preventDefault();
     const city = document.getElementById('citySelect').value;
